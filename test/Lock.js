@@ -15,3 +15,4 @@ describe("Lock contract", function () {
     expect(numbers2[2]).to.equal(5);
   });
 });
+
